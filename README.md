@@ -12,13 +12,14 @@ The colormaps in the `colormaps/` folder have the following licenses:
 
 | Colormap | License | Source |
 |:--:|:--:|--|
-| coolwarm | [CC0] | https://creativecommons.org/choose/zero/ |
+| coolwarm | [BSD] | http://www.kennethmoreland.com/color-advice/ |
 | inferno | [CC0] | https://bids.github.io/colormap/ |
 | magma | [CC0] | https://bids.github.io/colormap/ |
 | plasma | [CC0] | https://bids.github.io/colormap/ |
-| turbo | [Apache-2.0] | https://creativecommons.org/choose/zero/ |
+| turbo | [Apache-2.0] | https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html |
 | viridis | [CC0] | https://bids.github.io/colormap/ |
 
 [CC0]: https://creativecommons.org/choose/zero/
 [Apache-2.0]: https://www.apache.org/licenses/LICENSE-2.0
+[BSD]: https://www.paraview.org/paraview-license/
 

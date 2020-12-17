@@ -1,4 +1,4 @@
-// The colormap contained in this file is distributed under a CC0 license.
+// The colormap contained in this file is distributed under a BSD license.
 // Source: http://www.kennethmoreland.com/color-advice/
 
 const float coolwarm[][3] = {
