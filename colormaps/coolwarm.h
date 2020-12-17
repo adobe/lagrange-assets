@@ -1,7 +1,7 @@
 // The colormap contained in this file is distributed under a BSD license.
 // Source: http://www.kennethmoreland.com/color-advice/
 
-const float coolwarm[][3] = {
+const float coolwarm[256][3] = {
     {0.33479085013469045, 0.283084370264951, 0.756495219863611},
     {0.33899903044235874, 0.290177126281036, 0.7627125677875027},
     {0.343207654143344, 0.2972506705512531, 0.7688684155185582},
